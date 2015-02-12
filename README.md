@@ -41,3 +41,13 @@ In short: Caveat emptor
 ***
 
 **Disclaimer**: the inclusion of this template does not imply any legalities or responsibility on the part of the writer or Smashing Magazine. It is included solely for information purposes as an example of one professional’s contract. The laws in your state/country/dictatorship may differ. Check the Web for more information on your local laws.
+
+### Comments
+
+Confidentiality may not always be necessary
+
+Design parts are not always part of it
+
+Important points are it sets out what I am not responsible for. That is writing content for the application, sourcing pretty pictures, uploading stuff to the database. Also that I am not a hosting company and that responsibility for uptime etc rests with heroku/amazon/dropbox and whatever services deploy the application or parts of it.
+
+The ownership clause is there so that I can say I was the creator of that for the purposes of a portfolio.
