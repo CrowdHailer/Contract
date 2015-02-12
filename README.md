@@ -17,7 +17,7 @@ The popular open-source contract for web designers and developers by Stuff & Non
 - [Questions and Answers](http://www.smashingmagazine.com/2013/01/16/killing-contracts-interview-andy-clarke/)
 
 #### wikiHow
-useful set of advice
+useful set of advice. Very short sample contract at end
 [wikiHow](http://www.wikihow.com/Create-a-Freelancing-Contract)
 
 #### Shane and Peter
