@@ -12,6 +12,7 @@ You ([customer name]), located at [customer address] are hiring us ([company nam
 ## Scope
 
 ### Design
+<!-- TODO design included for generality but not relevant for purely backend projects  -->
 
 We create look-and-feel designs, and flexible layouts that adapt to the capabilities of many devices and screen sizes. We create designs iteratively and use predominantly HTML and CSS so we will not waste time mocking up every template as a static visual. We may use static visuals to indicate a look-and-feel direction (colour, texture and typography.) We call that ‘design atmosphere.’
 
@@ -22,6 +23,7 @@ You will have plenty of opportunities to review our work and provide feedback. W
 - you will pay us in full for everything we have produced up to and including the date of notice.
 
 ### Text content
+<!-- TODO database content -->
 
 We are not responsible for writing or inputting any text copy. If you would like us to write new content or input text for you, we can provide a separate estimate for that.
 
@@ -35,7 +37,7 @@ We deliver web page types developed from HTML5 markup, CSS2.1 + 3 stylesheets fo
 
 ### Ruby
 
-We deliver web applications developed from Ruby on Rack compatible frameworks. We will use additional compatible technologies where appropriate, such as postgresql for data storage.
+We deliver web applications developed from Ruby on Rack compatible frameworks. We will use additional technologies where appropriate, such as postgresql for data storage.
 
 ### Browser testing
 
@@ -82,24 +84,42 @@ We reserve the right, with your permission, to display and link to your project 
 
 ### Payments
 
-The fees and expenses shown are minimum estimates only unless an hourly fee has been agreed upon. That fee will be ________ per hour and the designer shall keep the client apprised of a tally of hours within a reasonable period of time. Final fees and expenses shall be shown when invoice is rendered. The fees and expenses shown are minimum estimates only unless the quote and/or invoice is clearly marked Firm Quote, otherwise the below stated hourly fee will be payable on all time over that which was quoted with a minimum in 30 minute increments.
+We are sure you understand how important it is as a small business that you pay the invoices that we send you promptly (in any event within 7 days of the date of issue of the invoice). All fees and expenses are minimum estimates only. The fee will be £35 per hour. We will invoice you at the end of every week in which we perform a service for you.
 
-We’re sure you understand how important it is as a small business that you pay the invoices that we send you promptly. As we’re also sure you’ll want to stay friends, you agree to stick tight to the following payment schedule.
+### Miscellaneous
 
-[Payment schedule]
+You cannot transfer or assign this contract to anyone else without our permission.
 
-### But where’s all the horrible small print?
+This contract shall continue in full force and effect until terminated by one of the parties, or the conclusion of the project.
 
-Just like a parking ticket, you can’t transfer this contract to anyone else without our permission. This contract stays in place and need not be renewed. If for some reason one part of this contract becomes invalid or unenforceable, the remaining parts of it remain in place.
+ This document may be signed in one or more counterparts, each part, when taken together, constituting a single document.
 
-Although the language is simple, the intentions are serious and this contract is a legal document under exclusive jurisdiction of [English and Welsh] courts.
-
-Oh and don’t forget those men with big dogs.
+Dispute resolution- The governing law of this contract is the law of England and Wales. The parties agree that the courts of England and Wales shall have exclusive jurisdiction over any dispute arising out of this agreement (including any non-contractual disputes).
 
 ### The dotted line
 
 Signed by and on behalf of [company name]
+
+>
+
+>
+
+>
+
 Signed by and on behalf of [customer name]
+
+>
+
+>
+
+>
+
 Date [date]
+
+>
+
+>
+
+>
 
 Everyone should sign above and keep a copy for their records.
