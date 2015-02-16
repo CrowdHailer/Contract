@@ -16,12 +16,6 @@ You ([customer name]), located at [customer address] are hiring us ([company nam
 
 We create look-and-feel designs, and flexible layouts that adapt to the capabilities of many devices and screen sizes. We create designs iteratively and use predominantly HTML and CSS so we will not waste time mocking up every template as a static visual. We may use static visuals to indicate a look-and-feel direction (colour, texture and typography.) We call that ‘design atmosphere.’
 
-You will have plenty of opportunities to review our work and provide feedback. We’ll share a working Google Drive with you and have regular, possibly daily contact. If, at any stage, you’re not happy with the direction our work is taking:
-
-- you will give us notice of your intention to terminate (at least 1 business day prior to the date of effective termination), and
-
-- you will pay us in full for everything we have produced up to and including the date of notice.
-
 ### Text content
 <!-- TODO database content -->
 
@@ -63,6 +57,12 @@ We are not a website hosting company so we do not offer support for website host
 ### Changes and revisions
 
 The price at the beginning of this contract is based on the length of time we estimate we will need to accomplish everything you have told us you want to achieve, but we will be flexible within reason. If you want to change your mind or add anything new, that will not be a problem as we will provide a separate estimate for that.
+
+You will have plenty of opportunities to review our work and provide feedback. We’ll share a working Google Drive with you and have regular, possibly daily contact. If, at any stage, you’re not happy with the direction our work is taking:
+
+- you will give us notice of your intention to terminate (at least 1 business day prior to the date of effective termination), and
+
+- you will pay us in full for everything we have produced up to and including the date of notice.
 
 ### Legal stuff
 
