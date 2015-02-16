@@ -1,6 +1,6 @@
 ## Contract
 
-You ([customer name]), located at [customer address] are hiring us ([company name]) located at [company address] to [design and develop a web site] for the estimated total price of [total] as outlined in our previous correspondence. Of course it’s a little more complicated, but we’ll get to that.
+You ([customer name]), located at [customer address] are hiring us ([company name]) located at [company address] to [design and develop a web site] for the estimated total price of [total] as outlined in our previous correspondence.
 
 ## What do both parties agree to do?
 
