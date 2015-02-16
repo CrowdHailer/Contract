@@ -92,9 +92,9 @@ You cannot transfer or assign this contract to anyone else without our permissio
 
 This contract shall continue in full force and effect until terminated by one of the parties, or the conclusion of the project.
 
- This document may be signed in one or more counterparts, each part, when taken together, constituting a single document.
+This document may be signed in one or more counterparts, each part, when taken together, constituting a single document.
 
-Dispute resolution- The governing law of this contract is the law of England and Wales. The parties agree that the courts of England and Wales shall have exclusive jurisdiction over any dispute arising out of this agreement (including any non-contractual disputes).
+The governing law of this contract is the law of England and Wales. The parties agree that the courts of England and Wales shall have exclusive jurisdiction over any dispute arising out of this agreement (including any non-contractual disputes).
 
 ### The dotted line
 
