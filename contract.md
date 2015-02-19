@@ -76,9 +76,9 @@ You warrant that all elements of text, images or other artwork you provide are e
 
 When your final payment has cleared, copyright will be automatically assigned as follows:
 
-You will own the visual elements that we create for this project. We will give you source files and finished files and you should keep them somewhere safe as we are not required to keep a copy. You own all elements of text, images and data you provided, unless someone else owns them.
+You will receive ownership of all application software as well as any visual elements and text content that we create for this project. We will give you source files and finished files and you should keep them somewhere safe as we are not required to keep a copy. You own all elements of text, images and data you provided, unless someone else owns them.
 
-We will own the unique combination of these elements that constitutes a complete design and we will license its use to you, exclusively and in perpetuity for this project only, unless we agree otherwise.
+You will be completely responsible for the software from this time onwards, including but not limited to upgrades and security patches. We will be able to help with this in future contracts if any are upcoming.
 
 We reserve the right, with your permission, to display and link to your project as part of our portfolio and to write about it on websites, in magazine articles and in books.
 
