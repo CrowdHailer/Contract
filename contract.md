@@ -27,7 +27,7 @@ You should supply graphic files in an editable, vector digital format. You shoul
 
 ### HTML, CSS and JavaScript
 
-We deliver web page types developed from HTML5 markup, CSS2.1 + 3 stylesheets for styling and unobtrusive JavaScript for feature detection, poly-fills and behaviours.
+We deliver web applications developed from HTML5 markup, CSS2.1 + 3 stylesheets for styling and JavaScript for feature detection, poly-fills and behaviours.
 
 ### Ruby
 
