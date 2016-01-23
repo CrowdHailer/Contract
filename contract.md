@@ -84,7 +84,7 @@ We reserve the right, with your permission, to display and link to your project 
 
 ### Payments
 
-We are sure you understand how important it is as a small business that you pay the invoices that we send you promptly (in any event within 7 days of the date of issue of the invoice). All fees and expenses are minimum estimates only. The fee will be £35 per hour. We will invoice you at the end of every week in which we perform a service for you.
+We are sure you understand how important it is as a small business that you pay the invoices that we send you promptly (in any event within 7 days of the date of issue of the invoice). All fees and expenses are minimum estimates only. The fee will be £80 per hour. We will invoice you at the end of every week in which we perform a service for you.
 
 ### Miscellaneous
 
